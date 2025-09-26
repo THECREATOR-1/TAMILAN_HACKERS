@@ -4,3 +4,4 @@ b=20
 print("Sum of A and B: "a+b)
 if(a>b):
 	print("A is greater")
+print("NIGGA")
